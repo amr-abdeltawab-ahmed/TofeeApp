@@ -1,0 +1,1 @@
+Developed a multi-platform e-commerce website and mobile app for a sweets business, featuring user registration, secure payment methods, loyalty points, gift vouchers, and an admin portal for catalog management and sales analytics.
